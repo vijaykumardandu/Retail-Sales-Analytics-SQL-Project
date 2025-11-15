@@ -22,58 +22,58 @@ Below is a summary of what each query reveals.
 
 ## 1. Business Overview
 **Query:** *Total Revenue, Orders, and Customers*  
-➡️ Measures company-wide performance by counting unique customers and orders, and computing total revenue.
+ Measures company-wide performance by counting unique customers and orders, and computing total revenue.
 
 **Query:** *Average Order Value (AOV)*  
-➡️ Calculates how much revenue is generated per order on average — a key profitability metric.
+ Calculates how much revenue is generated per order on average — a key profitability metric.
 
 ---
 
 ## 2. Store and Regional Performance
 **Query:** *Revenue by Store*  
-➡️ Identifies top-performing stores based on total revenue.
+ Identifies top-performing stores based on total revenue.
 
 **Query:** *Revenue Contribution by Region*  
-➡️ Shows which regions (North, South, East, West) drive the highest percentage of total revenue.
+ Shows which regions (North, South, East, West) drive the highest percentage of total revenue.
 
 **Query:** *Sales by City*  
-➡️ Determines the cities contributing most to overall sales.
+ Determines the cities contributing most to overall sales.
 
 ---
 
 ## 3. Product and Category Analysis
 **Query:** *Top 10 Products by Revenue*  
-➡️ Lists the best-selling products by total revenue and quantity sold.
+ Lists the best-selling products by total revenue and quantity sold.
 
 **Query:** *Most Popular Product Categories*  
-➡️ Highlights categories with the highest sales volume.
+ Highlights categories with the highest sales volume.
 
 **Query:** *Product Profitability by Discount Range*  
-➡️ Groups products into discount tiers (No, Low, Medium, High) to assess sales vs. discount impact.
+ Groups products into discount tiers (No, Low, Medium, High) to assess sales vs. discount impact.
 
 ---
 
 ## 4. Customer Insights
 **Query:** *Top Customers by Total Spend*  
-➡️ Finds the highest-spending customers, along with their total orders and city.
+ Finds the highest-spending customers, along with their total orders and city.
 
 **Query:** *Repeat Customers (Retention)*  
-➡️ Identifies customers who made multiple purchases — an indicator of loyalty.
+ Identifies customers who made multiple purchases — an indicator of loyalty.
 
 ---
 
 ## 5. Discounts and Sale Events
 **Query:** *Revenue by Sale Event*  
-➡️ Measures revenue generated during marketing events like “New Year Sale” or “Diwali Offer.”
+ Measures revenue generated during marketing events like “New Year Sale” or “Diwali Offer.”
 
 **Query:** *Discount Impact Analysis*  
-➡️ Compares total sales before vs. after discounts to evaluate how much revenue is affected by pricing strategies.
+ Compares total sales before vs. after discounts to evaluate how much revenue is affected by pricing strategies.
 
 ---
 
 ## 6. Trend Analysis
 **Query:** *Monthly Revenue Trend*  
-➡️ Tracks total sales month by month to identify growth patterns and seasonal peaks.
+ Tracks total sales month by month to identify growth patterns and seasonal peaks.
 
 ---
 
